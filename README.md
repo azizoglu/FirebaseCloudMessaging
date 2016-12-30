@@ -13,4 +13,4 @@ You need to change some of the information and put yourself in place of the foll
 
 # Screens
 
-![FCM1](https://github.com/azizoglu/FirebasePushNotification/blob/master/Screens/fcm1.png) ![FCM2](https://github.com/azizoglu/FirebasePushNotification/blob/master/Screens/fcm2.png) 
+![FCM1](https://github.com/azizoglu/FirebaseCloudMessaging/blob/master/Screen/fcm1.png) ![FCM2](https://github.com/azizoglu/FirebaseCloudMessaging/blob/master/Screen/fcm2.png) 
