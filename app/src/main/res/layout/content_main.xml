@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#EEE"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="azizoglu.firebasepushnotification.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/input_message"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            android:background="@android:color/white"
+            android:ems="10"
+            android:textColor="@android:color/black"
+            android:textColorHint="@android:color/darker_gray"
+            android:hint="Type Your Message"
+            android:inputType="textPersonName"
+            android:maxLength="300" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:orientation="vertical"></LinearLayout>
+
+
+</LinearLayout>
