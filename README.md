@@ -1,5 +1,5 @@
 # Firebase Push Notification
-This is Firebase+PHP demo app for push notification all tokens registered devices.
+This is Firebase+PHP demo app for sending push notification all tokens registered devices.
 http://www.gokhanazizoglu.com/firebase-push-notification/
 
 # Usage
